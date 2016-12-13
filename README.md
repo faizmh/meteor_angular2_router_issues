@@ -1,6 +1,7 @@
 # BB-web-application
 
 After clone run the below command line
+
 meteor npm install
 
 
